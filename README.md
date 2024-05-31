@@ -42,6 +42,6 @@ To run this project locally, follow these steps:
 
 4. Open http://localhost:3000 in your browser to see the app.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
